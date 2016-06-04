@@ -1,4 +1,0 @@
-﻿  Server.cpp
-  main.cpp
-  Generating Code...
-LINK : fatal error LNK1104: cannot open file 'Raknet_d.lib'
